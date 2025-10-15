@@ -37,31 +37,31 @@ SmartBudget is a full-stack web application to help users track income and expen
 ### Installation
 
 1. Clone the repository:
-git clone https://github.com/VivekllRanjan/smartbudget.git
-cd smartbudget
+- git clone https://github.com/VivekllRanjan/smartbudget.git
+- cd smartbudget
 
 
 2. Install backend dependencies:
-cd backend
-npm install
+- cd backend
+- npm install
 
 
 3. Install frontend dependencies:
-cd ../frontend
-npm install
+- cd ../frontend
+- npm install
 
 
 4. Create .env file
-PORT=5000
-MONGO_URI=<your_mongodb_uri>
-JWT_SECRET=<your_jwt_secret>
+
+- PORT=5000
+- MONGO_URI=<your_mongodb_uri>
+- JWT_SECRET=<your_jwt_secret>
 
 4. Running:
-cd backend
-npm run dev
-
-cd frontend
-npm run dev
+- cd backend
+- npm run dev
+- cd frontend
+- npm run dev
 
 
 
